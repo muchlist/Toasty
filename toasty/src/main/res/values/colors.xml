@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="defaultTextColor">#FFFFFF</color>
-    <color name="errorColor">#F06292</color>
-    <color name="infoColor">#64B5F6</color>
-    <color name="successColor">#81C784</color>
+    <color name="errorColor">#EC407A</color>
+    <color name="infoColor">#26A69A</color>
+    <color name="successColor">#66BB6A</color>
     <color name="warningColor">#FFF176</color>
     <color name="normalColor">#353A3E</color>
 </resources>
